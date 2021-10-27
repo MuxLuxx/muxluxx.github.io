@@ -1,0 +1,162 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+baseurl                 = "https://muxluxx.github.io/"
+DefaultContentLanguage  = "en"
+title                   = "Who is Crystal Wake?"
+theme                   = "hugo-future-imperfect-slim"
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[module]
+  [module.hugoVersion]
+  extended              = true
+  min                   = "0.62.0"
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = true
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "blog"
+  readingTime           = false
+  imageStretch          = ""
+  removeBlur            = false
+  socialShare           = []
+  hideEmptyStats        = false
+
+  [params.meta]
+    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    author              = "HTML5UP and Hugo"
+    favicon             = false
+    svg                 = true
+    faviconVersion      = "1"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "Crystal Wake"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = true
+    languageMenu        = false
+
+  [params.intro]
+    header                = "Crystal Wake (MuxLuxx)"
+    paragraph             = "IT Tech, Streamer and Builder"
+    rssIntro              = true
+    socialIntro           = true
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "img/main/mux.jpg"
+      shape               = "circle"
+      width               = ""
+      alt                 = "Crystal Wake aka MuxLuxx"
+
+  [params.sidebar]
+    about               = false
+    postAmount          = 5
+    categories          = false
+    categoriesByCount   = false
+
+  [params.footer]
+    rssFooter           = false
+    socialFooter        = false
+
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = ""
+    theme               = "github-light"
+
+  [params.staticman]
+    enabled             = false
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "About"
+    identifier        = "about"
+    url               = "about"
+    pre               = "<i class='far fa-id-card'></i>"
+    weight            = 1
+
+  [[menu.main]]
+    name              = "Blog"
+    identifier        = "blog"
+    url               = "blog"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 2
+
+[social]
+  # Coding Communities
+  github                = "MuxLuxx"
+  gitlab                = ""
+  stackoverflow         = "" #
+  bitbucket             = ""
+  jsfiddle              = ""
+  codepen               = ""
+  # Visual Art Communities
+  deviantart            = ""
+  flickr                = ""
+  behance               = ""
+  dribbble              = ""
+  # Publishing Communities
+  wordpress             = ""
+  medium                = ""
+  # Professional/Business Oriented Communities
+  linkedin              = ""
+  linkedin_company      = ""
+  foursquare            = ""
+  xing                  = ""
+  slideshare            = ""
+  # Social Networks
+  facebook              = ""
+  googleplus            = ""
+  reddit                = ""
+  quora                 = ""
+  youtube               = ""
+  vimeo                 = ""
+  whatsapp              = "" # 
+    # WeChat and QQ need testing.
+    wechat              = ""
+    qq                  = "" # 
+  instagram             = ""
+  tumblr                = ""
+  twitter               = "MuxLuxx"
+  strava                = ""
+  skype                 = ""
+  snapchat              = ""
+  pinterest             = ""
+  telegram              = ""
+  vine                  = ""
+  googlescholar         = ""
+  orcid                 = ""
+  researchgate          = ""
+  keybase               = ""
+  mastodon              = ""
+  # Email
+  email                 = ""
