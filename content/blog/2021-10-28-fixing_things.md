@@ -26,3 +26,5 @@ These goose give me life and also with a friend of mines invention it has helped
 ![Friendship makes everything better](https://images.squarespace-cdn.com/content/v1/5c3de8828f5130565abe67f9/1570707667511-RPJ0A6PPUPQBRENO45VP/goose_gif-02-well_honk.gif?format=1500w)
 
 Please consider checking out [Markdown Basics](https://www.markdownguide.org/basic-syntax/).
+
+Also, check out [Hugo](https://gohugo.io/) for more information.
