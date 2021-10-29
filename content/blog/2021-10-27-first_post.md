@@ -7,9 +7,10 @@ tags = ["hugo"]
 categories = ["blog"]
 +++
 
+![I am smart](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif)
 
 # What even is Hugo? 
 
 It seems it is a static site generator. Hugo is like bread to website with butter added on the plate. Morally wrong but it works. 
 
-Butter dog, puts butter on it.
+Butter dog, puts butter on it. 
