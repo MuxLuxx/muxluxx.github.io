@@ -128,7 +128,7 @@ disableLanguages        = []
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = ""
+  linkedin              = "crystal-wake"
   linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
