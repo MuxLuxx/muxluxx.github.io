@@ -1,7 +1,7 @@
 +++
 title = "Fixing Websites"
 description = "Mux Tries to fix her mistakes."
-author = "Crystal Wake"
+author = "Crystal W."
 date = "2021-10-28"
 tags = ["hugo","websitebuilding","fixing_things"]
 categories = ["blog"]

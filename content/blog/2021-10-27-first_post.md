@@ -1,7 +1,7 @@
 +++
 title = "First Post"
 description = "Mux Plays with Hugo."
-author = "Crystal Wake"
+author = "Crystal W."
 date = "2021-10-27"
 tags = ["hugo"]
 categories = ["blog"]

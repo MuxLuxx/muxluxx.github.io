@@ -2,7 +2,7 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://muxluxx.github.io/"
 DefaultContentLanguage  = "en"
-title                   = "Who is Crystal Wake?"
+title                   = "Crystal Wake (MuxLuxx)"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = ""
@@ -45,7 +45,7 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Crystal Wake"
+    navbarTitle         = "Crystal"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
@@ -144,7 +144,7 @@ disableLanguages        = []
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # 
-  instagram             = ""
+  instagram             = "Mux100"
   tumblr                = ""
   twitter               = "MuxLuxx"
   strava                = ""
