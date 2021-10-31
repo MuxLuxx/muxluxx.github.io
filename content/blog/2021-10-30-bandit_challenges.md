@@ -1,3 +1,4 @@
++++
 title = "Bandit Challenge"
 description = "Mux does the Bandit Challenge."
 author = "Crystal W."
@@ -26,10 +27,10 @@ References:
 
 - [Bandit Challenge](https://overthewire.org/wargames/bandit/)
 - [Ubu Command Line](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-- [Hacker IO](hhttps://hackr.io/blog/basic-linux-commands)
+- [Hacker IO](https://hackr.io/blog/basic-linux-commands)
 
 Have fun and Linux on my friends! Feel free to reach out, I am new so I will not have all the answers but I can always ask.
 
-![Teamwork makes the dream work](img/main/confusion.gif)
+![Teamwork makes the dream work](/img/main/thumbs_up.gif)
 
 You can do it!
