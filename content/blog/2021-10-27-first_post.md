@@ -5,6 +5,9 @@ author = "Crystal W."
 date = "2021-10-27"
 tags = ["hugo"]
 categories = ["blog"]
+[[images]]
+  src = "img/main/hello-world.gif"
+  alt = "Hello_world_friends"
 +++
 
 ![I am smart](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif)

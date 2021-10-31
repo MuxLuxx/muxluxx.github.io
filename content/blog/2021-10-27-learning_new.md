@@ -5,6 +5,9 @@ author = "Crystal Wake"
 date = "2021-10-27"
 tags = ["hugo","websitebuilding"]
 categories = ["blog"]
+[[images]]
+  src = "img/main/bmo.gif"
+  alt = "BEEMO SOCK DANCE!"
 +++
 
 
