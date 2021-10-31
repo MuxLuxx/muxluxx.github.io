@@ -6,8 +6,8 @@ date = "2021-10-30"
 tags = ["bandit_challenge","bandit","learning_linux","linux","linux_commandline","beginners_in_linux"]
 categories = ["blog"]
 [[images]]
-  src = "img/main/confusion.gif"
-  alt = "confused_help"
+  src = "img/main/hack.png"
+  alt = "smug 100"
 +++
 
 The bandit challenge has been one of the most interesting challenges to date for me. I am really new into tech and need to catch up with my friends. 
