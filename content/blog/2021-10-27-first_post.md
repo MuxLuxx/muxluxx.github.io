@@ -14,3 +14,5 @@ categories = ["blog"]
 It seems it is a static site generator. Hugo is like bread to website with butter added on the plate. Morally wrong but it works. 
 
 Butter dog, puts butter on it. 
+
+![Hello_world](/img/main/hacker.gif)

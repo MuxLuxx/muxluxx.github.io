@@ -18,4 +18,6 @@ As a whole, I really love working with everyone and using Github and Hugo to mak
 
 > I just want to hug a plushie right now. -\^.^/~
 
+![Pluuuuushhhhhiiiiiieeeesss](/img/main/plush.gif)
+
 I will get there I just don't know what to do next. I need to look into more courses and stuff like that. 
