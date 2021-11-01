@@ -6,11 +6,11 @@ date = "2021-10-31"
 tags = ["halloween","hacker_halloween","happy_halloween"]
 categories = ["blog"]
 [[images]]
-  src = "img/main/halloween.gif"
+  src = "img/main/halloween-tech.png"
   alt = "Happy Scary Skeletons, my friends"
 +++
 
-Happy Halloween my devs, hackers, IT and admins!
+Happy Halloween my Devs, Hackers, IT and Admins!
 
 Hope you are all having a spooky night and get lots of candy, scares and much more. 
 
@@ -27,5 +27,7 @@ But most importantly, I thought it would be great to show some of the wonderful 
 7. [Met the Stay Puft corgi today -- he was being walked by a Ghostbuster by LitMoose](https://twitter.com/LitMoose/status/1454971232823152640)
 
 Enjoy halloween! Post your favs to me and tag me, dm me or message me about cool stuff. Happy hacker-ween!
+
+![Happy Halloween!](\img\main\halloween.gif)
 
 -Mux
