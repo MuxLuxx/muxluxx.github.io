@@ -28,6 +28,6 @@ But most importantly, I thought it would be great to show some of the wonderful 
 
 Enjoy halloween! Post your favs to me and tag me, dm me or message me about cool stuff. Happy hacker-ween!
 
-![Happy Halloween!](\img\main\halloween.gif)
+![Happy Halloween!](/img/main/halloween.gif)
 
 -Mux
