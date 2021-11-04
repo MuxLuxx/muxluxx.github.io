@@ -10,7 +10,7 @@ categories = ["blog"]
   alt = "Happy Scary Skeletons, my friends"
 +++
 
-Happy Halloween my Devs, Hackers, IT and Admins!
+# Happy Halloween my Devs, Hackers, IT and Admins!
 
 Hope you are all having a spooky night and get lots of candy, scares and much more. 
 
