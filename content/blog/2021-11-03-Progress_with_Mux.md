@@ -1,5 +1,5 @@
 {
-  "title": "Let's talk about Progress with Mux",
+  "title": "Let's talk about Progress",
   "description": "Mux talks about Progress.",
   "author": "Crystal W.",
   "date": "2021-11-03",
