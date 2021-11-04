@@ -46,14 +46,7 @@ As Uncle Iroh said, "If you gain knowledge from only one place, it becomes frail
 
 In this file, I learned how to use Json to edit the code to make this post. My friend Admiral and Taz where helpful to show me this and has really helped with learning JSON. I think that I still need some work on this and need to keep trying this out. It is really neat and JSON has been helpful for me learning things like data types such as objects, arrays, string, number and boolean. This has helped me to understand coding a bit more but I will still need practice, but I am improving. 
 
-  ],
-  "images": [
-    {
-      "src": "img/main/iroh.gif",
-      "alt": "Progress is within you"
-    }
-  ]
-}
+[Progress is within you](/img/main/iroh.gif)
 
 Hope this helps and feel free to reach out! We are all working on something and it is good to promote one another versus demote. Jealousy is a killer and even a virus. Be kind, drink some water and catch yall later.
 
