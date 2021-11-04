@@ -40,21 +40,13 @@ We get upset or angry and when we don't see progress, we can feel discouraged. I
 | One example: If a Body Builder only benchs 250 pound weights but never trains anything else, are they a good Body Builder?
 > No. They can only do one thing but they can't do others and are not a full body builder and fail to fully develop their full potential. They may be good but they will never continue to improve if they don't exceed what they are comfortable with and jump into new opportunities.
 
-As Uncle Iroh said, "If you gain knowledge from only one place, it becomes frail and ridged. You will need knowledge of all 4 nations.". In this case, you will need to keep learning and keep growing along with training. You need to step out of the "fire nation" and grow to learn from others and improve as much as you can. Progress will come and results will be there but you need both sides of doing the thing, continuing to do said thing and improving/learning more. Learning IT is like weight lifting - get to know people, study, exercise, grow, work, continue, "lift heavy ass weights" and stay positive/do things to stay on a forward path. It is hard but at the end of the day, everything is hard and choose to make things that will be hard but beneficial for you vs hard and terrible for you. unfortunatley, some of those things will be friends, family or people you respect. It will be hard but if it matters to you then continue to proceed forward. There will always be temptations and disappointment but having people around you, seeing your improvement and where you started and challenging yourself is how to help yourself from falling. 
+As Uncle Iroh said, "If you gain knowledge from only one place, it becomes frail and ridged. You will need knowledge of all 4 nations.". In this case, you will need to keep learning and keep growing along with training. You need to step out of the "fire nation" and grow to learn from others and improve as much as you can. Progress will come and results will be there but you need both sides of doing the thing, continuing to do said thing and improving/learning more. Learning IT is like weight lifting - get to know people, study, exercise, grow, work, continue, "lift heavy ass weights" and stay positive/do things to stay on a forward path. It is hard but at the end of the day, everything is hard and choose to make things that will be hard but beneficial for you vs hard and terrible for you. unfortunatley, some of those things will be friends, family or people you respect. It will be hard but if it matters to you then continue to proceed forward. There will always be temptations and disappointment but having people around you, seeing your improvement and where you started and challenging yourself is how to help yourself from falling. Also, remember to love you, things that make you happy and people you care about.
+
+![Darkness can be deated by light](/img/main/love.gif)
 
 ## Tech Spot!
 
 In this file, I learned how to use Json to edit the code to make this post. My friend Admiral and Taz where helpful to show me this and has really helped with learning JSON. I think that I still need some work on this and need to keep trying this out. It is really neat and JSON has been helpful for me learning things like data types such as objects, arrays, string, number and boolean. This has helped me to understand coding a bit more but I will still need practice, but I am improving. 
-
-{
-  ],
-  "images": [
-    {
-      "src": "img/main/iroh.gif",
-      "alt": "Darkness can be better if you shine light"
-    }
-  ]
-}
 
 Hope this helps and feel free to reach out! We are all working on something and it is good to promote one another versus demote. Jealousy is a killer and even a virus. Be kind, drink some water and catch yall later.
 
