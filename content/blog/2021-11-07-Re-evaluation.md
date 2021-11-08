@@ -6,7 +6,7 @@ date = "2021-11-07"
 tags = ["re-evaluation","count_your_dues","adulting"]
 categories = ["blog"]
 [[images]]
-  src = "img/main/Plan-and-prioritize.jpng"
+  src = "img/main/Plan-and-prioritize.png"
   alt = ""
 +++
 
