@@ -34,7 +34,8 @@ I have become a hermit and this is not healthy for me at all. I need to become i
  I am glad that I can start to see progress and start to do things again. I think alot of people have kind of put me down and I said ok due to peer pressure. 
  
 Book recommendation: Life Changing Magic Of Tidying Up by Marie Kondo (read the whole thing and I love it)
-![Life Changing Magic Of Tidying Up by Marie Kondo](https://www.youtube.com/watch?v=vPTDotiqsF4&t=13s&ab_channel=KenethHefley)
+
+![Life Changing Magic Of Tidying Up by Marie Kondo](https://youtube.com/watch?v=vPTDotiqsF4&t=13s&ab_channel=KenethHefley)
 
 
  If this helps anyone, please feel free to reach out and hopefully we can do this together!
