@@ -1,5 +1,5 @@
 +++
-title = "I'M BACK BABY!"
+title = "Why I left and where I have been..."
 description = "Mux comes back after a long time."
 author = "Crystal W."
 date = "2022-18-1 "
