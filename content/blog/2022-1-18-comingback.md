@@ -6,7 +6,7 @@ date = "2022-18-1 "
 tags = ["covid","learning","Certifications","tired","exhaustion]
 categories = ["blog"]
 [[images]]
-  src = "img/main/suh-dudes.gif"
+  src = "img/main/Depression.jpg"
   alt = "Return"
 +++
 
