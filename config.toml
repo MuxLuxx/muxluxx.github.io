@@ -53,7 +53,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "Crystal Wake (MuxLuxx)"
-    paragraph             = "IT Tech, Streamer and Builder"
+    paragraph             = "IT & Cyber Security Enthusiast"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false

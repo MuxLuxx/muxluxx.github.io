@@ -6,13 +6,13 @@ date = "2021-10-26"
 layout = "about"
 +++
  
-IT Support Specialist, Girls Who Code Advocate, Security/DevOps Novice and GCU Cyber Center of Excellence Volunteer Lead. I am also a streamer and Twitch Affiliate. I volunteer my time with different IT organizations and work as a Lead CA every year at Black Hat USA. 
+IT Support Specialist, Girls Who Code Advocate, Security/DevOps Novice and GCU Cyber Center of Excellence Volunteer Lead. I volunteer my time with different IT organizations and work as a Lead CA every year at Black Hat USA. 
 
 > My favorite things are scary movies and memes about raccoons. 
 
 I have always had a love of tearing things down and building them back up. I made IT clubs with GCU and helped to build their range because of this love.
 
->I may have accidentally stripped some cables in the process... (Sorry).
+> I may have accidentally stripped some cables in the process... (Sorry).
 
 I have always liked things that allow me to be creative, when I was in my teens I was in marching band, colorguard, art club and FCCLA. Competition is good but I prefer healthy competition, one where even if I win or lose I can make a friend or two along the way and learn new things in the process. 
 
