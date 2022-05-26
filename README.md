@@ -1,5 +1,12 @@
 # how to do it:
 
+## How to preview changes locally.
+
+1. Turn on the hugo development server.
+ `./hugo.exe server`
+
+2. Visit the link that the hugo server outputs when it turns on.
+
 ## How to publish changes to the blog.
 
 ### Step 1: Run Git Push

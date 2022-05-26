@@ -3,7 +3,7 @@ title = "Why I left and where I have been..."
 description = "Mux comes back after a long time."
 author = "Crystal W."
 date = "2022-18-1 "
-tags = ["covid","learning","Certifications","tired","exhaustion]
+tags = ["covid","learning","certifications","tired","exhaustion"]
 categories = ["blog"]
 [[images]]
   src = "img/main/Depression.jpg"
