@@ -2,8 +2,8 @@
 title = "Mux makes live changes"
 description = "Mux makes some big life changes."
 author = "Crystal W."
-date = "2022-01-06 "
-tags = ["changes","learning","certifications","uncertainty","exhaustion"]
+date = "2022-06-01 "
+tags = ["changes","learning","certifications","uncertainty","exhaustion"] 
 categories = ["blog"]
 [[images]]
   src = "img/main/plush.gif"
