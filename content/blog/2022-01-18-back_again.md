@@ -2,11 +2,11 @@
 title = "Why I left and where I have been..."
 description = "Mux comes back after a long time."
 author = "Crystal W."
-date = "2022-18-01"
+date = "2022-01-18"
 tags = ["covid","learning","certifications","tired","exhaustion"]
 categories = ["blog"]
 [[images]]
-  src = "img/main/Depression.jpg"
+  src = "img/main/thumbs_up.gif"
   alt = "Return"
 +++
 
