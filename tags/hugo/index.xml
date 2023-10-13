@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Crystal Wake (MuxLuxx)</title>
+    <link>https://muxluxx.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Crystal Wake (MuxLuxx)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://muxluxx.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing Websites</title>
+      <link>https://muxluxx.github.io/blog/2021-10-28-fixing_things/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://muxluxx.github.io/blog/2021-10-28-fixing_things/</guid>
+      <description>Blog about fixing things&amp;hellip; Fixing things can be hard especially when you are starting out for the first time. Sometimes you need a helpful goose (admiral) to help you out.
+Sometimes you are fine and then something happens and you mess up. If you can&amp;rsquo;t figure it out, ask around and get some help. Usually for me that is a goose that flies around on my screen and honks at me when I need to look at something.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://muxluxx.github.io/blog/2021-10-27-first_post/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://muxluxx.github.io/blog/2021-10-27-first_post/</guid>
+      <description>What even is Hugo? It seems it is a static site generator. Hugo is like bread to website with butter added on the plate. Morally wrong but it works.
+Butter dog, puts butter on it.</description>
+    </item>
+    
+    <item>
+      <title>Learning New Things</title>
+      <link>https://muxluxx.github.io/blog/2021-10-27-learning_new/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://muxluxx.github.io/blog/2021-10-27-learning_new/</guid>
+      <description>What even are websites and how to build a post? I have been learning alot from my friends at DC801. Recently, I have been working on a special projec t that I have been working with them on. I can&amp;rsquo;t say much but involves a certain little mage. Hope you all will like it and try to keep an eye on all the different things on DC801 and my twitter for more information as well!</description>
+    </item>
+    
+  </channel>
+</rss>
