@@ -1,5 +1,8 @@
 # how to do it:
 
+## After Cloning the repository, pull down the submodules for the theme. 
+`git submodule update --init --recursive`
+
 ## How to preview changes locally.
 
 1. Turn on the hugo development server.
